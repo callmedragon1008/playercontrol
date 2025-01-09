@@ -356,6 +356,8 @@
 "Assets/Challenge 1/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 1/Scripts/PropellerSpin.cs"
 "Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/OncomingVehicles.cs"
+"Assets/Scripts/Player2Control.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 /deterministic
